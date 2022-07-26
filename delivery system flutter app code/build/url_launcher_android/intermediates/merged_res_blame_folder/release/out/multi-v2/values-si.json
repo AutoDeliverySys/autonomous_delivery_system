@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "P:\\Projects\\AndroidStudio\\flutter\\Graduation Project\\build\\url_launcher_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-si\\values-si.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\EMAM\\.gradle\\caches\\transforms-2\\files-2.1\\b01071293a1b7ecae267e95f1144cd77\\core-1.6.0\\res\\values-si\\values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "P:\\Projects\\AndroidStudio\\flutter\\Graduation Project\\build\\url_launcher_android\\intermediates\\res\\merged\\release\\values-si\\values-si.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\EMAM\\.gradle\\caches\\transforms-2\\files-2.1\\b01071293a1b7ecae267e95f1144cd77\\core-1.6.0\\res\\values-si\\values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
