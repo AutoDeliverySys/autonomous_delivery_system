@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527447334173",
+    "project_id": "crypto-prism-330313",
+    "storage_bucket": "crypto-prism-330313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527447334173:android:27ebb8352ecc9021f2d5f4",
+        "android_client_info": {
+          "package_name": "com.autonomous_delivery_system.delivery_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527447334173-hmcm8mqidbvr6j0vdmvcsls3l1ioikk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2B_ylT3q-v4tq9D4_i94qaDde9pKSlB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527447334173-hmcm8mqidbvr6j0vdmvcsls3l1ioikk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
