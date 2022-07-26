@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "P:\\Projects\\AndroidStudio\\flutter\\Graduation Project\\build\\firebase_core\\intermediates\\res\\merged\\release\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\EMAM\\.gradle\\caches\\transforms-2\\files-2.1\\da8548f6b33d0d5c8896e1d6eda227fd\\jetified-play-services-basement-18.0.0\\res\\values-zh-rCN\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "199",
+                        "endColumns": "94",
+                        "endOffsets": "293"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "98",
+                        "endOffsets": "149"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\EMAM\\.gradle\\caches\\transforms-2\\files-2.1\\b01071293a1b7ecae267e95f1144cd77\\core-1.6.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "154",
+                        "endColumns": "100",
+                        "endOffsets": "250"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "P:\\Projects\\AndroidStudio\\flutter\\Graduation Project\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\EMAM\\.gradle\\caches\\transforms-2\\files-2.1\\da8548f6b33d0d5c8896e1d6eda227fd\\jetified-play-services-basement-18.0.0\\res\\values-zh-rCN\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "199",
+                        "endColumns": "94",
+                        "endOffsets": "293"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "98",
+                        "endOffsets": "149"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\EMAM\\.gradle\\caches\\transforms-2\\files-2.1\\b01071293a1b7ecae267e95f1144cd77\\core-1.6.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "154",
+                        "endColumns": "100",
+                        "endOffsets": "250"
+                    }
+                }
+            ]
+        }
+    ]
+}
