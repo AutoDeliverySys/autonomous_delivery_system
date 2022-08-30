@@ -1,0 +1,9 @@
+git clone https://github.com/RONALD55/Geolocation-App-Python-Streamlit-Folium.git
+
+cd Geolocation-App-Python-Streamlit-Folium-main
+
+pip install -r requirements.txt
+
+
+streamlit run main.py
+
